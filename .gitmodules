@@ -1,0 +1,25 @@
+[submodule "ext/spdlog"]
+	path = ext/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "ext/eigen"]
+	path = ext/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+	branch = 3.4
+[submodule "ext/fmt"]
+	path = ext/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "ext/cutlass"]
+	path = ext/cutlass
+	url = https://github.com/NVIDIA/cutlass.git
+[submodule "ext/trove"]
+	path = ext/trove
+	url = https://github.com/bryancatanzaro/trove.git
+[submodule "ext/nvpro_core"]
+	path = ext/nvpro_core
+	url = https://github.com/nvpro-samples/nvpro_core.git
+[submodule "ext/cereal"]
+	path = ext/cereal
+	url = https://github.com/USCiLab/cereal.git
+[submodule "ext/googletest"]
+	path = ext/googletest
+	url = https://github.com/google/googletest.git
